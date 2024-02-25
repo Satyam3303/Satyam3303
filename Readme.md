@@ -15,6 +15,8 @@ Knowledge to create user interfaces using frontend frameworks/libraries like Rea
 ###
 Knowledge to manage tasks, prioritize work, and meet deadlines. Project resource gathering and proper documentation meeting professional standard and Understanding of Agile methodologies.
 # Connect With Me
-https://www.linkedin.com/in/shivam-satyam3303/
+LinkedIn- https://www.linkedin.com/in/shivam-satyam3303/
 ###
-shivamsatyam209@gmail.com
+Email- shivamsatyam209@gmail.com
+###
+My experiences- https://drive.google.com/file/d/1pGA55IOiIuT1ulFo5QOKWYHZayquNlUQ/view?usp=drive_link
