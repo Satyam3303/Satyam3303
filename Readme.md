@@ -1,15 +1,17 @@
 
 # Shivam Satyam Here
 
-A fullstack developer currrently pursing B.Tech CSE from XIM University, Bhubaneswar.
+An experienced Software Developer @ Silicon Techlab.
 ###
-Proficiency in languages like JavaScript, HTML, CSS, and often a backend language like Python,PHP and Node
+Pursued B.Tech CSE from XIM University, Bhubaneswar.
 ###
-Proficiency in using version control systems like Git for managing code repositories, collaborating and tracking changes.
+Proficiency in JavaScript, Typescript, C++ and Python
+###
+Proficiency in using version control systems like Git for managing code repositories, Jira Bitbucket for DevOps solution
 ###
 Experience in working with RESTful APIs, understanding how to consume and build them.
 ###
-Knowledge of server-side technologies and frameworks such as Node.js, Flask, Express.js.
+Knowledge of server-side technologies and frameworks such as Node.js, Flask, Express.js, Nest.js and Laravel
 ###
 Knowledge to create user interfaces using frontend frameworks/libraries like React, Next or Bootstrap.
 ###
@@ -19,4 +21,4 @@ LinkedIn- https://www.linkedin.com/in/shivam-satyam3303/
 ###
 Email- shivamsatyam209@gmail.com
 ###
-My experiences- https://drive.google.com/file/d/1pGA55IOiIuT1ulFo5QOKWYHZayquNlUQ/view?usp=drive_link
+My experiences- https://drive.google.com/file/d/1eU_di0FQu4k4klMuamXAHpVnh3U387M1/view?usp=drive_link
