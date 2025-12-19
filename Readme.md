@@ -1,7 +1,7 @@
 
 # Shivam Satyam Here
 
-An experienced Software Developer @ Silicon Techlab.
+An experienced Software Developer @ Accenture.
 ###
 Pursued B.Tech CSE from XIM University, Bhubaneswar.
 ###
@@ -11,7 +11,7 @@ Proficiency in using version control systems like Git for managing code reposito
 ###
 Experience in working with RESTful APIs, understanding how to consume and build them.
 ###
-Knowledge of server-side technologies and frameworks such as Node.js, Flask, Express.js, Nest.js and Laravel
+Knowledge of server-side technologies and frameworks such as Node.js, Express.js and Nest.js 
 ###
 Knowledge to create user interfaces using frontend frameworks/libraries like React, Next or Bootstrap.
 ###
