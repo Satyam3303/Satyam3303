@@ -5,9 +5,9 @@ An experienced Software Developer @ Accenture.
 ###
 Pursued B.Tech CSE from XIM University, Bhubaneswar.
 ###
-Proficiency in JavaScript, Typescript, C++ and Python
+Proficiency in JavaScript, Typescript and C++
 ###
-Proficiency in using version control systems like Git for managing code repositories, Jira Bitbucket for DevOps solution
+Proficiency in using version control systems like Git and Turtle SVN for managing code repositories, Jira Bitbucket for DevOps solution
 ###
 Experience in working with RESTful APIs, understanding how to consume and build them.
 ###
