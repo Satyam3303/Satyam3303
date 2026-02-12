@@ -2,10 +2,11 @@
 **Software Developer @ Accenture**
 
 ### 📊 GitHub Activity
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Satyam3303&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam3303&layout=compact&theme=radical" />
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Satyam3303&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam3303&layout=compact&theme=radical&cache_seconds=86400" />
 </p>
+
 
 ### 🛠️ Core Stack
 <p align="left">
