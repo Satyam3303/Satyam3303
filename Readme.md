@@ -20,17 +20,21 @@
 ### 💼 Professional Experience
 * **Current Role:** Software Developer at **Accenture**.
 * **Education:** B.Tech in CSE from **XIM University, Bhubaneswar**.
-* **Expertise:** Building and consuming **RESTful APIs**, server-side logic with **Nest.js** and **Express.js**, Building User Friendly Interfaces with **React.js** and **Next.js**, Agile development
-
+* **Expertise:** Building and consuming **RESTful APIs**, server-side logic with **Nest.js** and **Express.js**, Building User Friendly Interfaces with **React.js** and **Next.js**.
 ### ⚙️ DevOps & Tools
 * **Workflow:** Git, Turtle SVN, Jira, Bitbucket.
 * **Management:** Experienced in project resource gathering, technical documentation, and Agile methodologies.
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/shivam-satyam3303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-satyam3303" height="30" width="40" /></a>
-<a href="mailto:shivamsatyam209@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="shivamsatyam209" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/shivam-satyam3303/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="mailto:shivamsatyam209@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="40" />
+  </a>
 </p>
+
 
 ### 📄 Documentation
 * [View My Detailed Experience & Resume](https://drive.google.com/file/d/1eU_di0FQu4k4klMuamXAHpVnh3U387M1/view?usp=drive_link)
