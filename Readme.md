@@ -4,7 +4,7 @@
 ### 📊 GitHub Activity
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Satyam3303&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam3303&layout=compact&theme=radical" />
 </p>
 
 ### 🛠️ Core Stack
