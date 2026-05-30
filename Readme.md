@@ -13,7 +13,6 @@
 #### ⚛️ Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/XState-FF4785?style=for-the-badge&logo=state-machines&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -44,7 +43,7 @@
 ### 💼 Professional Experience
 * **Current Role:** Software Developer at **Accenture**.
 * **Education:** B.Tech in CSE from **XIM University, Bhubaneswar**.
-* **Expertise:** Building and consuming **RESTful APIs**, server-side logic with **Nest.js** and **Express.js**, Building User Friendly Interfaces with **React.js** and **Next.js**.
+* **Expertise:** Building and consuming **RESTful APIs**, server-side logic with **Nest.js** and **Express.js**, Building User Friendly Interfaces with **React.js**.
 ### ⚙️ DevOps & Tools
 * **Workflow:** Git, Turtle SVN, Jira, Bitbucket.
 * **Management:** Experienced in project resource gathering, technical documentation, and Agile methodologies.
@@ -61,4 +60,4 @@
 
 
 ### 📄 Documentation
-* [View My Detailed Experience & Resume](https://drive.google.com/file/d/1K0nSR7VDk4yYh507bqkQW8YMMOnD_2VO/view?usp=sharing)
+* [View My Detailed Experience & Resume](https://drive.google.com/file/d/1kBADnGyS-vDBpOXm5f5M4I127eYCXTDQ/view?usp=sharing)
