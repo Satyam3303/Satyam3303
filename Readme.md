@@ -60,4 +60,4 @@
 
 
 ### 📄 Documentation
-* [View My Detailed Experience & Resume](https://drive.google.com/file/d/115-i0N8tyyC-5Ptp9oVynDssBFa28Ppj/view?usp=sharing)
+* [View My Detailed Experience & Resume](https://drive.google.com/file/d/1b4MsMkiv5hIk0gZMo3A3quVi9AEk5hPY/view?usp=drive_link)
